@@ -1,0 +1,17 @@
+{
+  "name": "tp-02",
+  "version": "1.0.0",
+  "description": "Tp del 29-03",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yo (caste)",
+  "license": "ISC",
+  "dependencies": {
+    "country-to-currency": "^1.0.8",
+    "fs": "^0.0.1-security",
+    "url": "^0.11.0"
+  }
+}
