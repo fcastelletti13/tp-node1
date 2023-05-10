@@ -2,7 +2,7 @@ const countryToCurrency = require( 'country-to-currency' )
 function monedaPais(pais){
     let moneda;
     try {
-        moneda = countryToCurrency[país];
+        moneda = countryToCurrency[pais];
     } catch (error) {
         console.error(error)
     }
